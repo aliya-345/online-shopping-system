@@ -1,0 +1,5 @@
+{
+  "name": "SwiftCart Online Shopping",
+  "description": "A comprehensive full-stack e-commerce platform featuring secure user authentication, role-based access control, real-time cart management, and customer reviews.",
+  "requestFramePermissions": []
+}

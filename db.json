@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "admin-1",
+      "name": "Admin User",
+      "email": "admin@swiftcart.com",
+      "password": "$2a$10$7rK1p.Y.n.p.Y.n.p.Y.n.p.Y.n.p.Y.n.p.Y.n.p.Y.n.p.Y.n.p.Y.n.p.Y.n.p.Y.n",
+      "role": "admin"
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 99.99,
+      "stock": 50,
+      "description": "High-quality wireless noise-canceling headphones.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80"
+    },
+    {
+      "id": "p2",
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 199.99,
+      "stock": 30,
+      "description": "Track your fitness and stay connected.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80"
+    },
+    {
+      "id": "p3",
+      "name": "Leather Backpack",
+      "category": "Fashion",
+      "price": 79.99,
+      "stock": 20,
+      "description": "Durable and stylish leather backpack for everyday use.",
+      "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=800&q=80"
+    }
+  ],
+  "carts": {},
+  "orders": [],
+  "reviews": []
+}
